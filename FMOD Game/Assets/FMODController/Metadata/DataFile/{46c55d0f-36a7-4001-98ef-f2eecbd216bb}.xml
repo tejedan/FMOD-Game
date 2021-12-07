@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{46c55d0f-36a7-4001-98ef-f2eecbd216bb}">
+		<property name="assetPath">
+			<value>City/1_CitySounds_Arrangement.RPP-bak</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{4924b40c-dc21-460c-85c6-5a973fc7b439}</destination>
+		</relationship>
+	</object>
+</objects>

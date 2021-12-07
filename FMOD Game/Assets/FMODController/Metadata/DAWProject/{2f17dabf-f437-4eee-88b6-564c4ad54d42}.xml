@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DAWProject" id="{2f17dabf-f437-4eee-88b6-564c4ad54d42}">
+		<property name="assetPath">
+			<value>City/1_CitySounds_Arrangement.RPP.link/</value>
+		</property>
+		<property name="dawProjectPath">
+			<value>D:/Satvik/Music/Sounds/City/1_CitySounds_Arrangement.RPP</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{4924b40c-dc21-460c-85c6-5a973fc7b439}</destination>
+		</relationship>
+	</object>
+</objects>

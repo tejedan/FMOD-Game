@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{66da27ff-be8c-4dc2-b063-8b573ae5770b}">
+		<property name="assetPath">
+			<value>City/CarHorn.wav.reapeaks</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{4924b40c-dc21-460c-85c6-5a973fc7b439}</destination>
+		</relationship>
+	</object>
+</objects>
