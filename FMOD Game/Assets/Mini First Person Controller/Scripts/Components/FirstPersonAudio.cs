@@ -35,13 +35,19 @@ public class FirstPersonAudio : MonoBehaviour
 
     AudioSource[] MovingAudios => new AudioSource[] { stepAudio, runningAudio, crouchedAudio };
 
-
+    private void Awake()
+    {
+        var runEmitter = this.transform.GetChild(1).GetComponent<FMODUnity.StudioEventEmitter>();
+        runEmitter.Stop();
+    }
+    
     void Reset()
     {
         // Setup stuff.
         character = GetComponentInParent<FirstPersonMovement>();
         groundCheck = (transform.parent ?? transform).GetComponentInChildren<GroundCheck>();
-        stepAudio = GetOrCreateAudioSource("Step Audio");
+
+        // stepAudio = GetOrCreateAudioSource("Step Audio");
         landingAudio = GetOrCreateAudioSource("Landing Audio");
 
         // Setup jump audio.
@@ -69,6 +75,7 @@ public class FirstPersonAudio : MonoBehaviour
     {
         // Play moving audio if the character is moving and on the ground.
         float velocity = Vector3.Distance(CurrentCharacterPosition, lastCharacterPosition);
+
         if (velocity >= velocityThreshold && groundCheck && groundCheck.isGrounded)
         {
             if (crouch && crouch.IsCrouched)
@@ -77,7 +84,7 @@ public class FirstPersonAudio : MonoBehaviour
             }
             else if (character.IsRunning)
             {
-                PlayRunEvent();
+                SetPlayingMovingAudio(runningAudio);
             }
             else
             {
@@ -126,25 +133,23 @@ public class FirstPersonAudio : MonoBehaviour
         Run.release();
     }
 
-    //void PlayWalkEvent()
-    //{
-    //    // Start with material check then instantiate sound
-    //    MaterialCheck();
-    //    EventInstance Walk = RuntimeManager.CreateInstance(EventPath);
-    //    RuntimeManager.AttachInstanceToGameObject(Walk, transform, GetComponent<Rigidbody>());
+    void PlayWalkEvent()
+    {
+        EventInstance Walk = RuntimeManager.CreateInstance(EventPath);
+        RuntimeManager.AttachInstanceToGameObject(Walk, transform, GetComponent<Rigidbody>());
 
-    //    // Sets the Terrain parameter
-    //    Walk.setParameterByID(ParamID, MaterialValue, false);
+        // Sets the Terrain parameter
+        //Walk.setParameterByID(ParamID, MaterialValue, false);
 
-    //    // Sets the 'WalkRun' parameter
-    //    Walk.setParameterByID(ParamID2, 1, false);
+        // Sets the 'WalkRun' parameter
+        Walk.setParameterByName("WalkRun", 0, false);
 
-    //    // Can be used as alternative to IDs
-    //    // Run.setParameterByName("Terrain", MaterialValue);
+        // Can be used as alternative to IDs
+        // Run.setParameterByName("Terrain", MaterialValue);
 
-    //    Walk.start();
-    //    Walk.release();
-    //}
+        Walk.start();
+        Walk.release();
+    }
 
     #region Play instant-related audios.
     void PlayLandingAudio() => PlayRandomClip(landingAudio, landingSFX);

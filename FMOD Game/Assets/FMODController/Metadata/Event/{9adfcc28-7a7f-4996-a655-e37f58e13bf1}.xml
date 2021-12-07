@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{9adfcc28-7a7f-4996-a655-e37f58e13bf1}">
 		<property name="name">
-			<value>City Amb</value>
+			<value>City Amb 1</value>
 		</property>
 		<property name="outputFormat">
 			<value>2</value>
@@ -30,6 +30,9 @@
 		</relationship>
 		<relationship name="timeline">
 			<destination>{dae28615-66d5-475a-936a-5f529982f335}</destination>
+		</relationship>
+		<relationship name="banks">
+			<destination>{1f001694-96ba-4918-a7a6-d22a6308bdbb}</destination>
 		</relationship>
 	</object>
 	<object class="EventMixer" id="{8c44482c-89a7-4da5-8519-7b6a743b4e8b}">
@@ -72,6 +75,12 @@
 		</relationship>
 	</object>
 	<object class="EventMixerMaster" id="{a19a0458-290a-4e21-ab0f-725489b5ce3b}">
+		<property name="volume">
+			<value>-1.5</value>
+		</property>
+		<property name="pitch">
+			<value>1</value>
+		</property>
 		<relationship name="effectChain">
 			<destination>{c1787257-7fda-4710-861e-bae87645a5c3}</destination>
 		</relationship>
@@ -92,8 +101,9 @@
 		<property name="length">
 			<value>72.5</value>
 		</property>
+		<property name="name" />
 		<property name="volume">
-			<value>-13.5</value>
+			<value>-8.5</value>
 		</property>
 		<relationship name="audioFile">
 			<destination>{5cba4550-c122-47ca-866a-93533ed08322}</destination>
@@ -133,7 +143,14 @@
 			<destination>{76084539-48c3-41a3-ba9b-5dd03505d779}</destination>
 		</relationship>
 	</object>
-	<object class="MixerBusPanner" id="{be802cbb-b757-42b2-9dab-bcb850123317}" />
+	<object class="MixerBusPanner" id="{be802cbb-b757-42b2-9dab-bcb850123317}">
+		<property name="surroundPanDirection">
+			<value>-133.667786</value>
+		</property>
+		<property name="surroundPanExtent">
+			<value>258.489441</value>
+		</property>
+	</object>
 	<object class="MixerBusFader" id="{a2f23a68-489d-40d7-ab9d-9661048c4b8e}" />
 	<object class="MixerBusEffectChain" id="{18588955-4b0f-48c8-a61e-06870e0f394f}">
 		<relationship name="effects">

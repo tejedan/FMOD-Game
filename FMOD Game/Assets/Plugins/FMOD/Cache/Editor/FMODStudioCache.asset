@@ -15,10 +15,10 @@ MonoBehaviour:
   Path: Assets/FMODController/Build/Desktop/Player fx.bank
   Name: Player fx
   StudioPath: bank:/Player fx
-  lastModified: 637744483006258909
+  lastModified: 637744861995960312
   FileSizes:
   - Name: Desktop
-    Value: 54048
+    Value: 54080
   Exists: 1
 --- !u!114 &-4757488528848557231
 MonoBehaviour:
@@ -86,10 +86,10 @@ MonoBehaviour:
   Path: Assets/FMODController/Build/Desktop/Master.strings.bank
   Name: Master.strings
   StudioPath: bank:/Master.strings
-  lastModified: 637744483005948644
+  lastModified: 637744861995650051
   FileSizes:
   - Name: Desktop
-    Value: 908
+    Value: 950
   Exists: 1
 --- !u!114 &11400000
 MonoBehaviour:
@@ -110,12 +110,13 @@ MonoBehaviour:
   EditorEvents:
   - {fileID: -2287866017980671132}
   - {fileID: 6972806401198453405}
+  - {fileID: 8069941693903498876}
   EditorParameters: []
   MasterBanks:
   - {fileID: 3713582413576107116}
   StringsBanks:
   - {fileID: -1249589128861102475}
-  cacheTime: 637744483006258909
+  cacheTime: 637744861995960312
   cacheVersion: 10
 --- !u!114 &3713582413576107116
 MonoBehaviour:
@@ -132,10 +133,10 @@ MonoBehaviour:
   Path: Assets/FMODController/Build/Desktop/Master.bank
   Name: Master
   StudioPath: bank:/Master
-  lastModified: 637744483005938629
+  lastModified: 637744861995630127
   FileSizes:
   - Name: Desktop
-    Value: 137632
+    Value: 4042976
   Exists: 1
 --- !u!114 &6972806401198453405
 MonoBehaviour:
@@ -159,9 +160,36 @@ MonoBehaviour:
   - {fileID: -4840954594225711038}
   IsStream: 0
   Is3D: 1
-  IsOneShot: 1
+  IsOneShot: 0
   Parameters:
   - {fileID: -4757488528848557231}
   MinDistance: 1
   MaxDistance: 20
   Length: 1239
+--- !u!114 &8069941693903498876
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/City Amb 1
+  m_EditorClassIdentifier: 
+  Path: event:/City Amb 1
+  Guid:
+    Data1: -1696609240
+    Data2: 1234598527
+    Data3: 2145605030
+    Data4: -247733928
+  Banks:
+  - {fileID: 3713582413576107116}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 72500
