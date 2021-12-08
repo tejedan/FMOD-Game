@@ -32,13 +32,16 @@ public class FirstPersonAudio : MonoBehaviour
     public AudioClip[] crouchStartSFX, crouchEndSFX;
 
     private string EventPath = "event:/footsteps";
+    private FMODUnity.StudioEventEmitter runEmitter;
+    private FMODUnity.StudioEventEmitter walkEmitter;
 
     AudioSource[] MovingAudios => new AudioSource[] { stepAudio, runningAudio, crouchedAudio };
 
     private void Awake()
     {
-        var runEmitter = this.transform.GetChild(1).GetComponent<FMODUnity.StudioEventEmitter>();
+        runEmitter = this.transform.GetChild(1).GetComponent<FMODUnity.StudioEventEmitter>();
         runEmitter.Stop();
+        walkEmitter = this.transform.GetChild(0).GetComponent<FMODUnity.StudioEventEmitter>();
     }
     
     void Reset()
@@ -82,18 +85,23 @@ public class FirstPersonAudio : MonoBehaviour
             {
                 SetPlayingMovingAudio(crouchedAudio);
             }
-            else if (character.IsRunning)
+            else if (character.IsRunning && !runEmitter.IsPlaying())
             {
-                SetPlayingMovingAudio(runningAudio);
+                walkEmitter.EventInstance.stop(FMOD.Studio.STOP_MODE.IMMEDIATE);
+                walkEmitter.Stop();
+                runEmitter.Play();
             }
-            else
+            else if (!walkEmitter.IsPlaying())
             {
-                SetPlayingMovingAudio(stepAudio);
+                runEmitter.Stop();
+                runEmitter.EventInstance.stop(FMOD.Studio.STOP_MODE.IMMEDIATE);
+                walkEmitter.Play();
             }
         }
         else
         {
-            SetPlayingMovingAudio(null);
+            runEmitter.Stop();
+            walkEmitter.Stop();
         }
 
         // Remember lastCharacterPosition.
@@ -110,13 +118,13 @@ public class FirstPersonAudio : MonoBehaviour
         // Pause all MovingAudios.
         foreach (var audio in MovingAudios.Where(audio => audio != audioToPlay && audio != null))
         {
-            audio.Pause();
+            //audio.Pause();
         }
 
         // Play audioToPlay if it was not playing.
         if (audioToPlay && !audioToPlay.isPlaying)
         {
-            audioToPlay.Play();
+            //audioToPlay.Play();
         }
     }
 

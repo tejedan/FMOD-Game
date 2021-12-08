@@ -575,9 +575,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1514847743}
     m_Modifications:
+    - target: {fileID: 1261490130844430, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 1282587026986886, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
       propertyPath: m_Name
       value: WalkWay 5 prefab (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1282587026986886, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 1282587026986886, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
+      propertyPath: m_TagString
+      value: Grass
       objectReference: {fileID: 0}
     - target: {fileID: 4497011438508190, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
       propertyPath: m_RootOrder
@@ -2911,9 +2923,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1514847743}
     m_Modifications:
+    - target: {fileID: 1261490130844430, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 1282587026986886, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
       propertyPath: m_Name
       value: WalkWay 5 prefab (16)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1282587026986886, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 1282587026986886, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
+      propertyPath: m_TagString
+      value: Grass
       objectReference: {fileID: 0}
     - target: {fileID: 4497011438508190, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
       propertyPath: m_RootOrder
@@ -3948,9 +3972,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1514847743}
     m_Modifications:
+    - target: {fileID: 1261490130844430, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 1282587026986886, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
       propertyPath: m_Name
       value: WalkWay 5 prefab (17)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1282587026986886, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 1282587026986886, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
+      propertyPath: m_TagString
+      value: Grass
       objectReference: {fileID: 0}
     - target: {fileID: 4497011438508190, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
       propertyPath: m_RootOrder
@@ -4450,9 +4486,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1514847743}
     m_Modifications:
+    - target: {fileID: 1261490130844430, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 1282587026986886, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
       propertyPath: m_Name
       value: WalkWay 5 prefab (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1282587026986886, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 1282587026986886, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
+      propertyPath: m_TagString
+      value: Grass
       objectReference: {fileID: 0}
     - target: {fileID: 4497011438508190, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
       propertyPath: m_RootOrder
@@ -4936,9 +4984,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1514847743}
     m_Modifications:
+    - target: {fileID: 1261490130844430, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 1282587026986886, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
       propertyPath: m_Name
       value: WalkWay 5 prefab (27)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1282587026986886, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 1282587026986886, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
+      propertyPath: m_TagString
+      value: Grass
       objectReference: {fileID: 0}
     - target: {fileID: 4497011438508190, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
       propertyPath: m_RootOrder
@@ -5283,9 +5343,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1514847743}
     m_Modifications:
+    - target: {fileID: 1261490130844430, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 1282587026986886, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
       propertyPath: m_Name
       value: WalkWay 5 prefab (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1282587026986886, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 1282587026986886, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
+      propertyPath: m_TagString
+      value: Grass
       objectReference: {fileID: 0}
     - target: {fileID: 4497011438508190, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
       propertyPath: m_RootOrder
@@ -5340,9 +5412,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1514847743}
     m_Modifications:
+    - target: {fileID: 1261490130844430, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 1282587026986886, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
       propertyPath: m_Name
       value: WalkWay 5 prefab (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1282587026986886, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 1282587026986886, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
+      propertyPath: m_TagString
+      value: Grass
       objectReference: {fileID: 0}
     - target: {fileID: 4497011438508190, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
       propertyPath: m_RootOrder
@@ -5949,9 +6033,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1514847743}
     m_Modifications:
+    - target: {fileID: 1261490130844430, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 1282587026986886, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
       propertyPath: m_Name
       value: WalkWay 5 prefab (28)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1282587026986886, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 1282587026986886, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
+      propertyPath: m_TagString
+      value: Grass
       objectReference: {fileID: 0}
     - target: {fileID: 4497011438508190, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
       propertyPath: m_RootOrder
@@ -7771,9 +7867,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1514847743}
     m_Modifications:
+    - target: {fileID: 1261490130844430, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 1282587026986886, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
       propertyPath: m_Name
       value: WalkWay 5 prefab (22)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1282587026986886, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 1282587026986886, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
+      propertyPath: m_TagString
+      value: Grass
       objectReference: {fileID: 0}
     - target: {fileID: 4497011438508190, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
       propertyPath: m_RootOrder
@@ -8083,9 +8191,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1514847743}
     m_Modifications:
+    - target: {fileID: 1261490130844430, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 1282587026986886, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
       propertyPath: m_Name
       value: WalkWay 5 prefab (30)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1282587026986886, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 1282587026986886, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
+      propertyPath: m_TagString
+      value: Grass
       objectReference: {fileID: 0}
     - target: {fileID: 4497011438508190, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
       propertyPath: m_RootOrder
@@ -8517,9 +8637,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1514847743}
     m_Modifications:
+    - target: {fileID: 1261490130844430, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 1282587026986886, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
       propertyPath: m_Name
       value: WalkWay 5 prefab (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1282587026986886, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 1282587026986886, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
+      propertyPath: m_TagString
+      value: Grass
       objectReference: {fileID: 0}
     - target: {fileID: 4497011438508190, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
       propertyPath: m_RootOrder
@@ -9538,6 +9670,81 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 4241129891546564, guid: 0d994adf9f1bb3048b05c73f76d42756, type: 3}
   m_PrefabInstance: {fileID: 44224298}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &823789367
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 823789368}
+  - component: {fileID: 823789369}
+  - component: {fileID: 823789370}
+  m_Layer: 0
+  m_Name: Left Sounds
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &823789368
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 823789367}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 15.5, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 978146008}
+  m_RootOrder: 7
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &823789369
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 823789367}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a6610d2e704f1648819acc8d7460285, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  CollisionTag: 
+  EventReference:
+    Guid:
+      Data1: -1179351922
+      Data2: 1296685065
+      Data3: 1024817294
+      Data4: 1339595300
+    Path: event:/Ambulance Passes
+  Event: 
+  PlayEvent: 1
+  StopEvent: 2
+  AllowFadeout: 1
+  TriggerOnce: 0
+  Preload: 0
+  Params: []
+  OverrideAttenuation: 1
+  OverrideMinDistance: 11.99
+  OverrideMaxDistance: 31.82
+--- !u!114 &823789370
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 823789367}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8c714513938e1cd42a9562a735d8f8c8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  x: 30
 --- !u!1001 &824166647
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -9924,9 +10131,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1514847743}
     m_Modifications:
+    - target: {fileID: 1261490130844430, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 1282587026986886, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
       propertyPath: m_Name
       value: WalkWay 5 prefab (29)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1282587026986886, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 1282587026986886, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
+      propertyPath: m_TagString
+      value: Grass
       objectReference: {fileID: 0}
     - target: {fileID: 4497011438508190, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
       propertyPath: m_RootOrder
@@ -10783,9 +11002,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1514847743}
     m_Modifications:
+    - target: {fileID: 1261490130844430, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 1282587026986886, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
       propertyPath: m_Name
       value: WalkWay 5 prefab (23)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1282587026986886, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 1282587026986886, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
+      propertyPath: m_TagString
+      value: Grass
       objectReference: {fileID: 0}
     - target: {fileID: 4497011438508190, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
       propertyPath: m_RootOrder
@@ -11530,6 +11761,7 @@ Transform:
   - {fileID: 895260490}
   - {fileID: 651451834}
   - {fileID: 1291443182}
+  - {fileID: 823789368}
   m_Father: {fileID: 0}
   m_RootOrder: 13
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -11540,9 +11772,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1514847743}
     m_Modifications:
+    - target: {fileID: 1261490130844430, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 1282587026986886, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
       propertyPath: m_Name
       value: WalkWay 5 prefab (19)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1282587026986886, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 1282587026986886, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
+      propertyPath: m_TagString
+      value: Grass
       objectReference: {fileID: 0}
     - target: {fileID: 4497011438508190, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
       propertyPath: m_RootOrder
@@ -12767,9 +13011,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1514847743}
     m_Modifications:
+    - target: {fileID: 1261490130844430, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 1282587026986886, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
       propertyPath: m_Name
       value: WalkWay 5 prefab (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1282587026986886, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 1282587026986886, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
+      propertyPath: m_TagString
+      value: Grass
       objectReference: {fileID: 0}
     - target: {fileID: 4497011438508190, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
       propertyPath: m_RootOrder
@@ -13875,9 +14131,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1514847743}
     m_Modifications:
+    - target: {fileID: 1261490130844430, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 1282587026986886, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
       propertyPath: m_Name
       value: WalkWay 5 prefab (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1282587026986886, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 1282587026986886, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
+      propertyPath: m_TagString
+      value: Grass
       objectReference: {fileID: 0}
     - target: {fileID: 4497011438508190, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
       propertyPath: m_RootOrder
@@ -15145,7 +15413,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1291443181}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -16.96, y: 8.49, z: 2.31}
+  m_LocalPosition: {x: -10.4, y: -13.9, z: -1}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 978146008}
@@ -15998,9 +16266,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1514847743}
     m_Modifications:
+    - target: {fileID: 1261490130844430, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 1282587026986886, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
       propertyPath: m_Name
       value: WalkWay 5 prefab (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1282587026986886, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 1282587026986886, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
+      propertyPath: m_TagString
+      value: Grass
       objectReference: {fileID: 0}
     - target: {fileID: 4497011438508190, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
       propertyPath: m_RootOrder
@@ -16358,21 +16638,23 @@ MonoBehaviour:
   CollisionTag: 
   EventReference:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: -587497241
+      Data2: 1159165116
+      Data3: -225158997
+      Data4: -949426791
+    Path: event:/footsteps
   Event: 
-  PlayEvent: 0
-  StopEvent: 0
+  PlayEvent: 1
+  StopEvent: 2
   AllowFadeout: 1
   TriggerOnce: 0
   Preload: 0
-  Params: []
+  Params:
+  - Name: WalkRun
+    Value: 0
   OverrideAttenuation: 0
-  OverrideMinDistance: -1
-  OverrideMaxDistance: -1
+  OverrideMinDistance: 1
+  OverrideMaxDistance: 20
 --- !u!1001 &1371579644
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -16380,9 +16662,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1514847743}
     m_Modifications:
+    - target: {fileID: 1261490130844430, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 1282587026986886, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
       propertyPath: m_Name
       value: WalkWay 5 prefab (24)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1282587026986886, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 1282587026986886, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
+      propertyPath: m_TagString
+      value: Grass
       objectReference: {fileID: 0}
     - target: {fileID: 4497011438508190, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
       propertyPath: m_RootOrder
@@ -16984,9 +17278,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1514847743}
     m_Modifications:
+    - target: {fileID: 1261490130844430, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 1282587026986886, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
       propertyPath: m_Name
       value: WalkWay 5 prefab (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1282587026986886, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 1282587026986886, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
+      propertyPath: m_TagString
+      value: Grass
       objectReference: {fileID: 0}
     - target: {fileID: 4497011438508190, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
       propertyPath: m_RootOrder
@@ -17174,12 +17480,14 @@ MonoBehaviour:
       Data4: -949426791
     Path: event:/footsteps
   Event: 
-  PlayEvent: 11
-  StopEvent: 12
+  PlayEvent: 1
+  StopEvent: 2
   AllowFadeout: 1
   TriggerOnce: 0
   Preload: 0
-  Params: []
+  Params:
+  - Name: WalkRun
+    Value: 1
   OverrideAttenuation: 0
   OverrideMinDistance: 1
   OverrideMaxDistance: 20
@@ -18709,9 +19017,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1514847743}
     m_Modifications:
+    - target: {fileID: 1261490130844430, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 1282587026986886, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
       propertyPath: m_Name
       value: WalkWay 5 prefab (31)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1282587026986886, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 1282587026986886, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
+      propertyPath: m_TagString
+      value: Grass
       objectReference: {fileID: 0}
     - target: {fileID: 4497011438508190, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
       propertyPath: m_RootOrder
@@ -19646,9 +19966,25 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1514847743}
     m_Modifications:
+    - target: {fileID: 1261490130844430, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 1261490130844430, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
+      propertyPath: m_TagString
+      value: Grass
+      objectReference: {fileID: 0}
     - target: {fileID: 1282587026986886, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
       propertyPath: m_Name
       value: WalkWay 5 prefab (21)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1282587026986886, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 1282587026986886, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
+      propertyPath: m_TagString
+      value: Grass
       objectReference: {fileID: 0}
     - target: {fileID: 4497011438508190, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
       propertyPath: m_RootOrder
@@ -20765,9 +21101,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1514847743}
     m_Modifications:
+    - target: {fileID: 1261490130844430, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 1282587026986886, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
       propertyPath: m_Name
       value: WalkWay 5 prefab (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1282587026986886, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 1282587026986886, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
+      propertyPath: m_TagString
+      value: Grass
       objectReference: {fileID: 0}
     - target: {fileID: 4497011438508190, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
       propertyPath: m_RootOrder
@@ -21337,9 +21685,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1514847743}
     m_Modifications:
+    - target: {fileID: 1261490130844430, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 1282587026986886, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
       propertyPath: m_Name
       value: WalkWay 5 prefab (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1282587026986886, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 1282587026986886, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
+      propertyPath: m_TagString
+      value: Grass
       objectReference: {fileID: 0}
     - target: {fileID: 4497011438508190, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
       propertyPath: m_RootOrder
@@ -21533,9 +21893,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1514847743}
     m_Modifications:
+    - target: {fileID: 1261490130844430, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 1282587026986886, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
       propertyPath: m_Name
       value: WalkWay 5 prefab (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1282587026986886, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 1282587026986886, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
+      propertyPath: m_TagString
+      value: Grass
       objectReference: {fileID: 0}
     - target: {fileID: 4497011438508190, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
       propertyPath: m_RootOrder
@@ -21659,9 +22031,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1514847743}
     m_Modifications:
+    - target: {fileID: 1261490130844430, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 1282587026986886, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
       propertyPath: m_Name
       value: WalkWay 5 prefab (20)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1282587026986886, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 1282587026986886, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
+      propertyPath: m_TagString
+      value: Grass
       objectReference: {fileID: 0}
     - target: {fileID: 4497011438508190, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
       propertyPath: m_RootOrder
@@ -22562,9 +22946,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1514847743}
     m_Modifications:
+    - target: {fileID: 1261490130844430, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 1282587026986886, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
       propertyPath: m_Name
       value: WalkWay 5 prefab (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1282587026986886, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 1282587026986886, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
+      propertyPath: m_TagString
+      value: Grass
       objectReference: {fileID: 0}
     - target: {fileID: 4497011438508190, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
       propertyPath: m_RootOrder
@@ -22686,9 +23082,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1514847743}
     m_Modifications:
+    - target: {fileID: 1261490130844430, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 1282587026986886, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
       propertyPath: m_Name
       value: WalkWay 5 prefab (26)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1282587026986886, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 1282587026986886, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
+      propertyPath: m_TagString
+      value: Grass
       objectReference: {fileID: 0}
     - target: {fileID: 4497011438508190, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
       propertyPath: m_RootOrder
@@ -22748,9 +23156,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1514847743}
     m_Modifications:
+    - target: {fileID: 1261490130844430, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 1282587026986886, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
       propertyPath: m_Name
       value: WalkWay 5 prefab (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1282587026986886, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 1282587026986886, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
+      propertyPath: m_TagString
+      value: Grass
       objectReference: {fileID: 0}
     - target: {fileID: 4497011438508190, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
       propertyPath: m_RootOrder
@@ -22934,9 +23354,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1514847743}
     m_Modifications:
+    - target: {fileID: 1261490130844430, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 1282587026986886, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
       propertyPath: m_Name
       value: WalkWay 5 prefab (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1282587026986886, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 1282587026986886, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
+      propertyPath: m_TagString
+      value: Grass
       objectReference: {fileID: 0}
     - target: {fileID: 4497011438508190, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
       propertyPath: m_RootOrder
@@ -23561,9 +23993,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1514847743}
     m_Modifications:
+    - target: {fileID: 1261490130844430, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 1282587026986886, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
       propertyPath: m_Name
       value: WalkWay 5 prefab (25)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1282587026986886, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 1282587026986886, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
+      propertyPath: m_TagString
+      value: Grass
       objectReference: {fileID: 0}
     - target: {fileID: 4497011438508190, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
       propertyPath: m_RootOrder
@@ -24478,9 +24922,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1514847743}
     m_Modifications:
+    - target: {fileID: 1261490130844430, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 1282587026986886, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
       propertyPath: m_Name
       value: WalkWay 5 prefab (18)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1282587026986886, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 1282587026986886, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
+      propertyPath: m_TagString
+      value: Grass
       objectReference: {fileID: 0}
     - target: {fileID: 4497011438508190, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
       propertyPath: m_RootOrder
@@ -24698,9 +25154,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1514847743}
     m_Modifications:
+    - target: {fileID: 1261490130844430, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 1282587026986886, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
       propertyPath: m_Name
       value: WalkWay 5 prefab
+      objectReference: {fileID: 0}
+    - target: {fileID: 1282587026986886, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 1282587026986886, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
+      propertyPath: m_TagString
+      value: Grass
       objectReference: {fileID: 0}
     - target: {fileID: 4497011438508190, guid: 7446a392a730ac14d9cc70d21cf7ace0, type: 3}
       propertyPath: m_RootOrder
